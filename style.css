@@ -1,0 +1,198 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+.quien-soy {
+  background-color: #D6E5FA;
+  position: relative;
+  height: 100vh;
+}
+
+
+.familia {
+  background-color: #BAABDA;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.mi-familia {
+  padding-top: 10px;
+}
+
+.skill-row {
+  margin: 20px auto;
+text-align: left;
+line-height: 2;
+margin-bottom: 0;
+}
+
+.skill-row-image {
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+
+.skill-img {
+  width: 22%;
+  float: right;
+  margin-right: 50px;
+  padding-top: 150px;
+  border-radius: 20%;
+  margin: 0 80px;
+}
+
+.amigos {
+  height: 470px;
+  background-color: #FFFFFF;
+}
+
+.metas {
+background-color: #BAABDA;
+padding-bottom: 50px;
+}
+
+.favoritos {
+position: relative;
+    background-color: #D6E5FA;
+    padding-bottom: 100px;
+}
+
+.footer {
+    height: 350px;
+    background-color: #F6FBF4;
+}
+
+.corazon {
+  width: 10%;
+  padding-top: 90px;
+}
+
+.h2-familia {
+  padding-top: 50px;
+  color: #4A3C69;
+}
+
+.skill-p {
+  color: #4A3C69;
+  font-size: 1.2rem;
+  padding: 0;
+  text-align: left;
+  line-height: 1.5;
+  padding-bottom: 10px;
+}
+
+.skill-p2 {
+  margin-bottom: 0;
+  padding-left: 140px;
+}
+
+.h-metas {
+  padding-left: 140px;
+}
+
+.table-name {
+  background-color: #333;
+  color: #fff;
+}
+
+.cosas-favoritas {
+  text-align: left;
+  font-size: 1.1rem;
+  line-height: 2.5;
+  padding-left: 70px;
+}
+
+
+.iframe {
+  width: 10%;
+}
+
+.footer-icon {
+  margin: 15px;
+}
+
+.footer-p {
+  color: #66BFBF;
+}
+
+#favorito {
+  font-family: 'Sacramento', cursive;
+  padding-top: 50px;
+  font-size: 4.5rem;
+  font-weight: 500;
+}
+
+#footer {
+  padding: 150px 150px 50px;
+  text-align: center;
+  background-color: #fff;
+}
+
+h1 {
+  padding-top: 170px;
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 400%;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  margin: 0;
+}
+
+h3 {
+  color: #4A3C69;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+}
+
+p {
+  color: #387171;
+  font-size: 1.3rem;
+text-align: center;
+padding-top: 70px;
+margin: 0 120px 0 120px;
+line-height: 1.5;
+}
+
+table {
+  table-layout: fixed ;
+  width: 100% ;
+  height: 100%;
+}
+
+table,
+td {
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
+
+td {
+  background-color: #D6E5FA;
+  color: #387171;
+}
+
+iframe {
+  float: right;
+  bottom: 250px;
+  left: 200px;
+  width: 50%;
+  padding-right: 80px;
+}
+
+a {
+    color: #40514E;
+}
